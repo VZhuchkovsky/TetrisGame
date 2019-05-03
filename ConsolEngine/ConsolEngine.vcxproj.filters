@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseApp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Tetris.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Pixel.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleBrick.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Tetramino.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="globals.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureI.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TetraminoFactory.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureZ.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureS.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureL.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureJ.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureT.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureO.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TestApp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseApp.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="PerformanceCounter.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Tetris.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Pixel.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleBrick.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Tetramino.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureI.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="TetraminoFactory.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureZ.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureJ.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureL.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureO.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureS.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureT.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="TestApp.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
